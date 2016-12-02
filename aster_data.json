@@ -1,0 +1,52 @@
+[
+  {
+    "id": "FIS",
+    "order": 1.1,
+    "score": 59,
+    "weight": 1,
+    "color": "#01344A",
+    "label": "C4"
+  }, {
+    "id": "MAR",
+    "order": 1.2,
+    "score": 24,
+    "weight": 1,
+    "color": "#41A6D3",
+    "label": "C5"
+  }, {
+    "id": "AO",
+    "order": 2,
+    "score": 98,
+    "weight": 1,
+    "color": "#014664",
+    "label": "C6"
+  }, {
+    "id": "NP",
+    "order": 3,
+    "score": 60,
+    "weight": 1,
+    "color": "#016997",
+    "label": "C7"
+  }, {
+    "id": "CS",
+    "order": 4,
+    "score": 74,
+    "weight": 1,
+    "color": "#3485A8",
+    "label": "C8"
+  }, {
+    "id": "CP",
+    "order": 5,
+    "score": 70,
+    "weight": 1,
+    "color": "#46B3E3",
+    "label": "C9"
+  }, {
+    "id": "TR",
+    "order": 6,
+    "score": 42,
+    "weight": 1,
+    "color": "#028DCA",
+    "label": "C10"
+  }
+]

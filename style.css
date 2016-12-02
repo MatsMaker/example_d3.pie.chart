@@ -1,0 +1,29 @@
+.labelSlice {
+  font-size: 16px;
+  font-family: 'Arial';
+  fill: #5C5C5C;
+  font-weight: bold;
+}
+
+.label-score {
+  font-family: 'Arial';
+  font-size: 52px;
+  fill: #4182A1;
+}
+
+.center-circle {
+  fill: white;
+}
+
+.solidArc {
+  stroke: #EBEBEB;
+  stroke-width: 3px;
+}
+
+.scale-circle {
+  fill: none;
+  stroke: #989898;
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-dasharray: 1, 3;
+}
